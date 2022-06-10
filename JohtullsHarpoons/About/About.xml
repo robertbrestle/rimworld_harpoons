@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>JohtullsHarpoons</name>
+  <author>Johtull</author>
+  <url>https://github.com/robertbrestle/rimworld_harpoons</url>
+  <packageId>johtull.harpoons</packageId>
+  <supportedVersions>
+    <li>1.2</li>
+	<li>1.3</li>
+  </supportedVersions>
+  <description>Conquer all of the seas (and lands) with this simple harpoon mod!</description>
+</ModMetaData>
